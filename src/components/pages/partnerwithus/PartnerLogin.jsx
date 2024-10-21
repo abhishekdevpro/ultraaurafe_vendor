@@ -107,7 +107,7 @@ const Login = () => {
                                     <div className="img-logo">
                                         <img src={logo5} className="img-fluid" alt="Logo" />
                                         <div className="back-home">
-                                            <Link to="/home">Back to Home</Link>
+                                            <Link to="https://vendors.ultraaura.education">Back to Home</Link>
                                         </div>
                                     </div>
                                     <h1>Sign into Your Account</h1>

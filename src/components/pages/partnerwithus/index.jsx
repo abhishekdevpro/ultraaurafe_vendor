@@ -121,7 +121,7 @@ const Partnerwithus = () => {
                 <div className="w-100">
                   <div className="img-logo">
                     <div className="back-home">
-                      <Link to="/home">Back to Home</Link>
+                      <Link to="https://vendors.ultraaura.education">Back to Home</Link>
                     </div>
                   </div>
                   <h1>Sign up into Your Account</h1>

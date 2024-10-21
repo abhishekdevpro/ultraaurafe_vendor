@@ -139,7 +139,7 @@ import EditSection from "./components/pages/course/Section/EditSection.jsx";
 import EditLecture from "./components/pages/course/Lecture/EditLecture.jsx";
 import Partnerwithus from "./components/pages/partnerwithus/index.jsx";
 import PartnerLogin from './components/pages/partnerwithus/PartnerLogin.jsx'
-import { VendorDashboard } from "./components/Vendor/VendorDasboard.jsx";
+import VendorDashboard  from "./components/Vendor/VendorDasboard.jsx";
 import ForgotPasswordVendor from "./components/pages/forgotPassword/Vendor-ForgetPassword.jsx";
 import NewPasswordVendor from "./components/pages/newPassword/Vendor-ResetPassword.jsx";
 import VendorSetting from "./components/Vendor/VendorSetting.jsx";

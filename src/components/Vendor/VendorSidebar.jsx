@@ -30,7 +30,7 @@ export default function VendorSidebar() {
   }, []);
   const handleLogout = () => {
     localStorage.removeItem('vendorToken');
-    window.location.href = '/partner-signin'
+    window.location.href = 'https://vendors.ultraaura.education'
   };
 
 

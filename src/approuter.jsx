@@ -139,7 +139,6 @@ import EditSection from "./components/pages/course/Section/EditSection.jsx";
 import EditLecture from "./components/pages/course/Lecture/EditLecture.jsx";
 import Partnerwithus from "./components/pages/partnerwithus/index.jsx";
 import PartnerLogin from './components/pages/partnerwithus/PartnerLogin.jsx'
-import VendorDashboard  from "./components/Vendor/VendorDasboard.jsx";
 import ForgotPasswordVendor from "./components/pages/forgotPassword/Vendor-ForgetPassword.jsx";
 import NewPasswordVendor from "./components/pages/newPassword/Vendor-ResetPassword.jsx";
 import VendorSetting from "./components/Vendor/VendorSetting.jsx";
@@ -170,6 +169,7 @@ import EditCouponForm from "./components/Admin/EditCoupon.jsx";
 import PaymentFailedPage from "./components/pages/error/Paymentfailed.jsx";
 import ScheduleLiveClass from "./components/instructor/LiveClasses/ScheduleLiveClass.jsx";
 import JoinLiveClass from "./components/instructor/LiveClasses/ForStudent/JoinLiveClasses.jsx";
+import {VendorDashboard} from './components/Vendor/VendorDasboard.jsx'
 const Approuter = () => {
   return (
     <BrowserRouter>
